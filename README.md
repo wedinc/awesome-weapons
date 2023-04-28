@@ -1,5 +1,8 @@
 # awesome-weapons
 
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 ## CLI Tools
 
 ## Visual Studio Code Extensions
