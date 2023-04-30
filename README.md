@@ -1,7 +1,18 @@
-# awesome-weapons
+# Awesome Weapons [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [CLI Tools](#cli-tools)
+- [Visual Studio Code Extensions](#visual-studio-code-extensions)
+- [Chrome Extensions](#chrome-extensions)
+  - [GitHub](#github)
+  - [Front End Assistant](#front-end-assistant)
+  - [Tools](#tools)
+- [Vim (Neovim) Extensions](#vim-neovim-extensions)
+- [tmux Extensions](#tmux-extensions)
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## CLI Tools
 
