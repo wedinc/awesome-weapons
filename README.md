@@ -1,3 +1,4 @@
+<!--lint disable awesome-git-repo-age-->
 # Awesome Weapons [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
