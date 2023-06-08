@@ -19,6 +19,10 @@
 
 ## Visual Studio Code Extensions
 
+- [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) - Easily switch between projects
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
+- [Mermaid Markdown Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=bpruitt-goddard.mermaid-markdown-syntax-highlighting) - Markdown syntax support for the Mermaid charting language
+
 ## Chrome Extensions
 ### GitHub
 - [File Icons for GitHub and GitLab](https://github.com/homerchen19/github-file-icons) - A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
